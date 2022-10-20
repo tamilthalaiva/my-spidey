@@ -1,5 +1,5 @@
 See<p align="center">
-  <img src="/AQADILcxG5v-UVZ9.png" alt="ડꪜ Movie Tamizha">
+  <img src="https://telegra.ph/file/8911de34e0214a489075a.jpg" alt="ડꪜ Movie Tamizha">
 </p>
 <h1 align="center">
   <b>ડꪜ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
