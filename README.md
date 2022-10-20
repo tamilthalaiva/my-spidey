@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to ડꪜ users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/@Tamil_Thalaiva)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/Tamilthalaiva3)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᦓꪊ᥅꠹꠸ꪻꫝ](https://telegram.dog/@Tamil_Thalaiva)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [UPDATE CHANNEL](https://t.me/Tamilthalaiva3)</b>
