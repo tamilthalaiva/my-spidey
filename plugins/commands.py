@@ -30,17 +30,17 @@ async def start(client, message):
             await db.add_chat(message.chat.id, message.chat.title)
         return 
     if not await db.is_user_exist(message.from_user.id):
-        await db.add_user(message.from_user.id, message.from_user.first_name)
+        await db.add_user(message.from_user.id, message.mefrom_user.first_name)
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/Tamilthalaiva3'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+zbvmzFXmSgU1YmY9')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/AboutAadhi'),
+            InlineKeyboardButton('CONTACT ME', url='https://t.me/Tamil_Thalaiva'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
@@ -80,11 +80,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/Tamilthalaiva3'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+zbvmzFXmSgU1YmY9')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/AboutAadhi'),
+            InlineKeyboardButton('CONTACT ME', url='https://t.me/Tamil_Thalaiva'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
@@ -117,7 +117,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sá´œÊ™sá´„test button', url='youtube.com/OpusTechz') ] ] )
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('My channel Join now', url='https://t.me/Tamilthalaiva3') ] ] )
         )
                     
 
