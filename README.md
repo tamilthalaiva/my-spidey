@@ -1,3 +1,7 @@
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ડꪜ-𝙱𝙾𝚃𝚂!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+🆂🆄🆁🅹🅸🆃🅷!)
+<p align="center">
+  <img src="https://telegra.ph/file/b232edd7413b5682947a8.jpg" alt="ડꪜ">
+</p>
 See<p align="center">
   <img src="https://telegra.ph/file/8911de34e0214a489075a.jpg" alt="ડꪜ Movie Tamizha">
 </p>
